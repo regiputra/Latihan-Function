@@ -1,0 +1,2 @@
+# Latihan-Function
+Latihan Function
